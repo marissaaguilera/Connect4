@@ -7,7 +7,7 @@ This was my first coding project and done purely in Python. Feel free to downloa
 
 ### Starting the game
 ![](imgs/empty_board.jpg)
-### Players turn
+### Player turn
 ![](imgs/yellow_turn.jpg)
 ### Player wins
 ![](imgs/red_wins.jpg)
